@@ -24,20 +24,22 @@
 4. op 상태에서 /optiongui 실행 시 gui가 뜬다면 설치가 잘 된 것입니다. 사용법은 [여기서](https://github.com/uniqueleru/Denizen-1.20.6) 잘 읽어보시면 됩니다.
 
 위의 과정을 따라하시면 이루님이 데니즌 스크립트를 이용해 만든 컨텐츠는 모두 사용할 수 있습니다.
-추가로 재도전이나 속편은 굳이 링크 안 달겠습니다.
-
 
 ### 목록 (날짜순 정렬)
 
-* [데미지 공유](https://youtu.be/AhkBcAR3uxk?si=YUvtEozqzuMkfQeQ) (해당 영상 말고도 여러 영상에서 쓰임): 데니즌
+데니즌을 통해 제작된 컨텐츠는 "데니즌"이라고만 설명을 달았습니다. 데니즌 설치 방법은 위의 설명을 참조해주세요.
+<br/> + 재도전이나 속편은 굳이 영상 링크 안 달겠습니다.
+
+* [데미지 공유](https://youtu.be/AhkBcAR3uxk?si=YUvtEozqzuMkfQeQ): 데니즌
 * [인벤토리 공유 야생](https://youtu.be/k2ZTbKhMh0Y?si=dL6arsVQdzJV1ujx): 데니즌
 * [랜덤 대미지 마인크래프트](https://youtu.be/yOQcTo26dOQ?si=wYoCsR9TLbnhjGxT): 데니즌
+* [추억의 마검탈출맵](https://youtu.be/p_z-DCYR5jY?si=9pQgwP8k3h5fgSE6): [맵 출처](https://blog.naver.com/taekyung2795/222441382854)
 * [뭘 먼저 공격할까?](https://youtu.be/7Q3xWMDQP2Q?si=0cWqxKlwa_vAdRKC), [버튼 참기 Lv. 999](https://youtu.be/L7HbDKoG7AI?si=Ht6b08AWF6ArLIAq): [맵 출처(레인보우 탈출맵)](https://www.koreaminecraft.net/map/3765057)
 * [개미 몬스터 마인크래프트](https://youtu.be/wwxkTZCuVt8?si=FTQdvHcf-UipecHg): 데니즌
 * ["속도 100배"](https://youtu.be/zprMtSbSZTw?si=Nfb1p_lt4Wb5IVM7): 데니즌
 * ["대미지 1" 로 드래곤 잡기](https://youtu.be/1wzqUA8EWk0?si=Jv8CR3uZP7dnmgmd): 데니즌
 * [협동(강제)해서 드래곤 잡기](https://youtu.be/Z68M5dP-2v4?si=TrdGc-amY3esrK4l): 데니즌
-* [레전드 야생 능력자](https://youtu.be/6T-aMrUpBIw?si=FuOVpoY4IMzTwa_S) (해당 영상 말고도 여러 영상에서 쓰임): [플러그인 출처](https://github.com/Daybreak365/AbilityWar)
+* [레전드 야생 능력자](https://youtu.be/6T-aMrUpBIw?si=FuOVpoY4IMzTwa_S): [플러그인 출처](https://github.com/Daybreak365/AbilityWar)
 * [마인크래프트 배틀로얄](https://youtu.be/vaUJtwCm0kw?si=qogdwjdxPZeNKsXK): 하단 참조
 * [인벤토리 한 칸만 쓰고 드래곤 잡기](https://youtu.be/fqNyxizKQ4U?si=PwEI-xlNGJheQCSo): 데니즌
 * [마인크래프트 술래잡기 맞습니다](https://youtu.be/u8wN_Gq_aQ0?si=PB2Ut8p7XUS71lVR): [맵 출처(먹이가 바뀐다)](https://www.koreaminecraft.net/map/3756464)
@@ -67,12 +69,11 @@
 
 
 ### 출처 불명 혹은 구할 수 없는 것들 (날짜순 정렬)
-제보 주시면 업데이트 합니다.
+제보 주시면 업데이트 합니다. 대부분 자체 제작인데 배포가 되지 않은 것들입니다.
 
 * [찐친들한테 협동 점프맵 시키기 ㅋㅋㅋㅋㅋ](https://youtu.be/QxCdx08Wto4?si=CqsWygwQUNqela5N)
 * [타이머 PVP](https://youtu.be/szIsdCTHgh8?si=zQ86rdX0C6upE342)
 * [텔레포트 데스매치 (Death Swap)](https://youtu.be/A8BBFsJcxBs?si=Iv1myG1gKBlPJkL8)
-* [추억의 마검탈출맵](https://youtu.be/p_z-DCYR5jY?si=9pQgwP8k3h5fgSE6)
 * [페이커도 반응 못하는 마인크래프트](https://youtu.be/x7njSfk6DeQ?si=KkAdxDgS527x8Zop) (랜덤 이속)
 * [썸네일 엔더드래곤 맞습니다](https://youtu.be/0g41Ke4Cj08?si=XDEkb6wpFOxJ-mWW) (모든 몹 좀비화)
 * [여기서 겉날개를??](https://youtu.be/yhUNZEe1aTw?si=E2c6mi5tyMqVpJn_) (랜덤 아이템 pvp)
@@ -86,4 +87,4 @@
 
 ### 배틀로얄
 
-이게 사실 질문이 제일 많은 것 같습니다. 간단히 설명하면 Arclight 버킷, tacz 모드, Skript 플러그인, [이루님이 제작한 스크립트](https://github.com/uniqueleru/Battleroyale)를 모두 적용하면 됩니다. 주의하실 것은 Skript 최신 버전은 1.20.1을 명시적으로는 지원 안 한다고 되어있는데, 저의 경우는 최신 버전으로 해야 오류가 안 생겼습니다. 자세히 설명하기는 솔직히 좀 귀찮기도 하고, 이 정도 설명으로도 최소한의 구글링 능력을 갖추신 분들은 다 하실 수 있을 거라고 믿습니다..
+간단히 설명하면 [Arclight 버킷](https://github.com/IzzelAliz/Arclight)(1.20.1), [tacz 모드](https://modrinth.com/mod/timeless-and-classics-zero)(forge 1.20.1), [Skript 플러그인](https://github.com/SkriptLang/Skript), [이루님이 제작한 스크립트](https://github.com/uniqueleru/Battleroyale)를 모두 적용하면 됩니다. 주의하실 것은 Skript 최신 버전은 1.20.1을 명시적으로는 지원 안 한다고 되어있는데, 저의 경우는 최신 버전으로 해야 오류가 안 생겼습니다. 자세히 설명하기는 솔직히 좀 귀찮기도 하고, 이 정도 설명으로도 최소한의 구글링 능력을 갖추신 분들은 다 하실 수 있을 거라고 믿습니다..
