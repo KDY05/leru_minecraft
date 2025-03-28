@@ -2,7 +2,7 @@
 
 ## 1. 클라이언트 모드
 
-보통 [Modrinth](https://modrinth.com/)에서 Fabric 인스턴스 만들어 사용하십니다. 사용하는 모드는 계속 바뀌기도 하고 전부를 알 수는 없기 때문에 질문이 자주 나오는 것들만 정리했으며, 제보 혹은 질문 주시면 업데이트합니다. 의존성과 사용법 등은 링크 들어가셔서 확인하시면 됩니다.
+보통 [Modrinth](https://modrinth.com/)에서 Fabric 인스턴스를 만들어 사용하십니다. 사용하는 모드는 계속 바뀌기도 하고 전부를 알 수는 없기 때문에 질문이 자주 나오는 것들만 정리했으며, 제보 혹은 질문 주시면 업데이트합니다. 의존성과 사용법 등은 링크 들어가셔서 확인하시면 됩니다.
 
 * [Sodium](https://modrinth.com/mod/sodium) + [Sodium Extra](https://modrinth.com/mod/sodium-extra): 비디오 설정을 통해 우측 상단에 FPS와 좌표 표시, 지옥문 왜곡 효과 삭제, 지옥에서 안개 비활성화 등.
 * [Essential Mod](https://modrinth.com/mod/essential): 춤추기, 명상 등의 감정표현 애니메이션
@@ -18,7 +18,7 @@
 이루님의 초반 컨텐츠에는 데니즌 스크립트(Denizen Script)을 통해 자체 제작한 것이 많습니다. 데니즌 설치 및 이루님이 제작한 스크립트 적용 방법은 다음과 같습니다.
 
 0. 1.20.6 혹은 1.21.4 버전의 Paper 서버를 준비해주세요. 만악의 근원인 페더클, 옵티파인 등은 제발 같이 쓰지 말아주세요. 이 단계에서는 질문 안 받겠습니다.
-1. [여기서](https://ci.citizensnpcs.co/job/Denizen_Developmental/) 데니즌 플러그인을 다운받아 서버 폴더의 plugins 폴더 안으로 옮긴 다음 서버를 한 번 실행 시킵니다. 실행하고 서버를 닫으면 \"서버폴더/plugins/Denizen/scripts\" 라는 경로가 생길 것입니다.
+1. [여기서](https://ci.citizensnpcs.co/job/Denizen_Developmental/) 데니즌 플러그인을 다운받아 다운 받은 파일을 서버 폴더의 plugins 폴더로 옮긴 다음 서버를 한 번 열어줍니다. 그 다음 서버를 닫으면 \"서버폴더/plugins/Denizen/scripts\" 라는 경로가 생길 것입니다.
 2. [여기서](https://github.com/uniqueleru/Denizen-1.20.6) 초록색 Code 버튼을 누르고 Download ZIP을 눌러 스크립트를 다운 받습니다.
 3. 압축을 반드시 풀고 \"서버폴더/plugins/Denizen/scripts\" 안으로 옮긴 다음 서버를 다시 실행합니다.
 4. op 상태에서 /optiongui 실행 시 gui가 뜬다면 설치가 잘 된 것입니다. 사용법은 [여기서](https://github.com/uniqueleru/Denizen-1.20.6) 잘 읽어보시면 됩니다.
