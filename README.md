@@ -10,6 +10,7 @@
 * [Apple Skin](https://modrinth.com/mod/appleskin): 배고픔 관련 더 많은 정보(음식 먹기 전 배고픔과 체력 미리보기 등)를 알 수 있음
 * [Zoomify](https://modrinth.com/mod/zoomify): 줌 땡길 수 있는 모드. 의존성 모드 있습니다.
 * [Jade](https://modrinth.com/mod/jade): 화면 중앙 상단에 블럭과 엔티티 정보(이름, 체력 등) 표기
+* [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks): 마우스 드래그로 상자 등에서 빠르게 아이템 옮길 수 있음
 * [Continuity](https://modrinth.com/mod/continuity) + [New Glowing Ores(리소스팩)](https://modrinth.com/resourcepack/new-glowing-ores): 광물 테두리 생기고 빛남
 
 ## 2. 컨텐츠에 쓰인 플러그인/모드/맵
@@ -20,7 +21,7 @@
 0. 1.20.6 혹은 1.21.4 버전의 Paper 서버를 준비해주세요. 만악의 근원인 페더클, 옵티파인 등은 제발 같이 쓰지 말아주세요. 이 단계에서는 질문 안 받겠습니다.
 1. [여기서](https://ci.citizensnpcs.co/job/Denizen_Developmental/) 데니즌 플러그인을 다운받아 다운 받은 파일을 서버 폴더의 plugins 폴더로 옮긴 다음 서버를 한 번 열어줍니다. 그 다음 서버를 닫으면 \"서버폴더/plugins/Denizen/scripts\" 라는 경로가 생길 것입니다.
 2. [여기서](https://github.com/uniqueleru/Denizen-1.20.6) 초록색 Code 버튼을 누르고 Download ZIP을 눌러 스크립트를 다운 받습니다.
-3. 압축을 반드시 풀고 \"서버폴더/plugins/Denizen/scripts\" 안으로 옮긴 다음 서버를 다시 실행합니다.
+3. 압축을 반드시 풀고 \"서버폴더/plugins/Denizen/scripts\" 안으로 옮긴 다음 서버를 다시 열어줍니다.
 4. op 상태에서 /optiongui 실행 시 gui가 뜬다면 설치가 잘 된 것입니다. 사용법은 [여기서](https://github.com/uniqueleru/Denizen-1.20.6) 잘 읽어보시면 됩니다.
 
 위의 과정을 따라하시면 이루님이 데니즌 스크립트를 이용해 만든 컨텐츠는 모두 사용할 수 있습니다.
@@ -34,7 +35,7 @@
 * [인벤토리 공유 야생](https://youtu.be/k2ZTbKhMh0Y?si=dL6arsVQdzJV1ujx): 데니즌
 * [랜덤 대미지 마인크래프트](https://youtu.be/yOQcTo26dOQ?si=wYoCsR9TLbnhjGxT): 데니즌
 * [추억의 마검탈출맵](https://youtu.be/p_z-DCYR5jY?si=9pQgwP8k3h5fgSE6): [맵 출처](https://blog.naver.com/taekyung2795/222441382854)
-* [뭘 먼저 공격할까?](https://youtu.be/7Q3xWMDQP2Q?si=0cWqxKlwa_vAdRKC), [버튼 참기 Lv. 999](https://youtu.be/L7HbDKoG7AI?si=Ht6b08AWF6ArLIAq): [맵 출처(레인보우 탈출맵)](https://www.koreaminecraft.net/map/3765057)
+* [뭘 먼저 공격할까?](https://youtu.be/7Q3xWMDQP2Q?si=0cWqxKlwa_vAdRKC), [버튼 참기 Lv. 999](https://youtu.be/L7HbDKoG7AI?si=Ht6b08AWF6ArLIAq)  (레인보우 탈출맵): [맵 출처](https://www.koreaminecraft.net/map/3765057)
 * [개미 몬스터 마인크래프트](https://youtu.be/wwxkTZCuVt8?si=FTQdvHcf-UipecHg): 데니즌
 * ["속도 100배"](https://youtu.be/zprMtSbSZTw?si=Nfb1p_lt4Wb5IVM7): 데니즌
 * ["대미지 1" 로 드래곤 잡기](https://youtu.be/1wzqUA8EWk0?si=Jv8CR3uZP7dnmgmd): 데니즌
@@ -42,7 +43,7 @@
 * [레전드 야생 능력자](https://youtu.be/6T-aMrUpBIw?si=FuOVpoY4IMzTwa_S): [플러그인 출처](https://github.com/Daybreak365/AbilityWar)
 * [마인크래프트 배틀로얄](https://youtu.be/vaUJtwCm0kw?si=qogdwjdxPZeNKsXK): 하단 참조
 * [인벤토리 한 칸만 쓰고 드래곤 잡기](https://youtu.be/fqNyxizKQ4U?si=PwEI-xlNGJheQCSo): 데니즌
-* [마인크래프트 술래잡기 맞습니다](https://youtu.be/u8wN_Gq_aQ0?si=PB2Ut8p7XUS71lVR): [맵 출처(먹이가 바뀐다)](https://www.koreaminecraft.net/map/3756464)
+* [마인크래프트 술래잡기 맞습니다](https://youtu.be/u8wN_Gq_aQ0?si=PB2Ut8p7XUS71lVR) (먹이가 바뀐다): [맵 출처](https://www.koreaminecraft.net/map/3756464)
 * [썸네일보다 더 많이 나옴(진짜임)](https://youtu.be/PRGgWIvLp38?si=2zfN3Mv_NKbYbWYC) (몬스터 100배): 데니즌
 * [이 상태로 드래곤 잡기](https://youtu.be/QrKQ6PUCyh0?si=1hiyNK4jjt1o6LZZ) (시간 흐름 5배): 데니즌
 * [이상한 점을 찾으시오 (4점)](https://youtu.be/Ou29H8xpG-o?si=X3CRA6NwV4ACia-n) (블럭 숨바꼭질): [이 플러그인](https://www.spigotmc.org/resources/libs-disguises-free.81/)의 명령어 사용
@@ -69,6 +70,7 @@
 
 
 ### 출처 불명 혹은 구할 수 없는 것들 (날짜순 정렬)
+
 제보 주시면 업데이트 합니다. 대부분 자체 제작인데 배포가 되지 않은 것들입니다.
 
 * [찐친들한테 협동 점프맵 시키기 ㅋㅋㅋㅋㅋ](https://youtu.be/QxCdx08Wto4?si=CqsWygwQUNqela5N)
